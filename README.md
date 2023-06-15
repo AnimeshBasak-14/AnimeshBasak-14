@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnimeshBasak-14
-- 👀 I’m interested in python projectsc& app development
+- 👀 I’m interested in python projects & app development
 - 🌱 I’m currently learning Python & C programming language
 - 💞️ I’m looking to collaborate on python programs
 - 📫 How to reach me message me 

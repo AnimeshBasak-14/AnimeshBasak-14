@@ -40,7 +40,7 @@
                     <div class="flex-container"  display="flex">
                         <div class="flex-media-logo">
                             <a href="https://www.leetcode.com/basakanimesh16/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahulsah6003/" height="40" width="50" /></a>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="basakanimesh16/" height="40" width="50" /></a>
                         <span class="flex-title" align="left" >
                             <span size="20px">LeetCode
                                 <a href="https://www.leetcode.com/basakanimesh16/" target="_blank"><img src="./images/link.svg"></a>

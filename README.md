@@ -80,7 +80,7 @@
                         <span class="flex-title">
                             <span>CodeChef
                                <a href="https://www.codechef.com/users/animesh9807" target="_blank"><img src="./images/link.svg"></a>
-                                <small><strong></strong>, 1499(max)</small>
+                                <small><strong></strong></small>
                             </span>
                         </span>
                         </div>
@@ -92,7 +92,7 @@
                         <span class="flex-title">
                             <span>CodeForces
                                 <a href="https://codeforces.com/profile/Animesh_Basak" target="_blank"><img src="./images/link.svg"></a>
-                                <small><strong></strong>, 1044(max)</small>
+                                <small><strong></strong></small>
                             </span>
                         </span>
                         </div>

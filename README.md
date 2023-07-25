@@ -22,13 +22,13 @@
 
 <!-- - 📝 I regularly write articles on [https://pursottam6003.github.io/Portfolio-react/](https://pursottam6003.github.io/Portfolio/) -->
 
-- 💬 Ask me about **App Development, Flutter, Kotlin, Java,Python,C++,Data Structures and Algorithms, Object Oriented Programming, Machine Learning**
+- 💬 Ask me about **App Development, Flutter, Kotlin, Java, Python, C, Data Structures and Algorithms, Object Oriented Programming, Machine Learning**
 
 - 📫 How to reach me **basakanimesh49@gmail.com**
 
 - 📄 My Resume https://drive.google.com/file/d/1EOMCKBvWJvgZF82PEKQtDItmsJZI6hQT/view?usp=sharing
 
-- ⚡ Fun fact **I think I am boring person**
+- ⚡ Fun fact **I think I am a boring person**
 
  
 <h1>Coding Profiles 
@@ -44,7 +44,7 @@
                         <span class="flex-title" align="left" >
                             <span size="20px">LeetCode
                                 <a href="https://www.leetcode.com/basakanimesh16/" target="_blank"><img src="./images/link.svg"></a>
-                                <small><strong>480+ Problems</strong>, (1403 max)</small>
+                                <small><strong></strong>, (1403 max)</small>
                             </span>
                         </span>
                         </div>
@@ -80,7 +80,7 @@
                         <span class="flex-title">
                             <span>CodeChef
                                <a href="https://www.codechef.com/users/animesh9807" target="_blank"><img src="./images/link.svg"></a>
-                                <small><strong>200+ Problems</strong>, 1499(max)</small>
+                                <small><strong></strong>, 1499(max)</small>
                             </span>
                         </span>
                         </div>
@@ -92,7 +92,7 @@
                         <span class="flex-title">
                             <span>CodeForces
                                 <a href="https://codeforces.com/profile/Animesh_Basak" target="_blank"><img src="./images/link.svg"></a>
-                                <small><strong>100+ Problems</strong>, 1044(max)</small>
+                                <small><strong></strong>, 1044(max)</small>
                             </span>
                         </span>
                         </div>

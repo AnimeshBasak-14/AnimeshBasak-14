@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on [DSA_Practice]
+- 👯 I’m looking to collaborate on [App Development and ML/DL projects]
 
 
 
@@ -44,7 +44,7 @@
                         <span class="flex-title" align="left" >
                             <span size="20px">LeetCode
                                 <a href="https://www.leetcode.com/basakanimesh16/" target="_blank"><img src="./images/link.svg"></a>
-                                <small><strong></strong>, (1403 max)</small>
+                                <small><strong></strong></small>
                             </span>
                         </span>
                         </div>

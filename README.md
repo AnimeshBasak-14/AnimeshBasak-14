@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://linktr.ee/Animesh_Basak" target="blank"><img src="https://img.shields.io/badge/ANIMESH BASAK-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Animesh Basak" /></a> </p>
 
 <!-- - 🔭 I’m currently working on [WhatApp Chat Analyzer]() -->
-- 👨‍💻 My best project ConnectGame
+- 👨‍💻 My best project [ConnectGame](https://github.com/AnimeshBasak-14/ConnectGame)
 
 
 - 🌱 I’m currently learning **Machine Learning**
@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **basakanimesh49@gmail.com**
 
-- 📄 My Resume https://drive.google.com/file/d/1EOMCKBvWJvgZF82PEKQtDItmsJZI6hQT/view?usp=sharing
+- 📄 My Resume <p align="left"> <a href="https://drive.google.com/file/d/1EOMCKBvWJvgZF82PEKQtDItmsJZI6hQT/view?usp=sharing" target="blank"><img src="https://img.shields.io/badge/ANIMESH BASAK-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Animesh Basak" /></a> </p>
 
 - ⚡ Fun fact **I think I am a boring person**
 

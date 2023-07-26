@@ -1,4 +1,4 @@
-<img src="./images/Animesh Basak.png" align="center">
+<img src="./images/AnimeshBasak.png" align="center">
 
 <h1 align="center">Hi 👋, I'm Animesh Basak</h1>
 <h3 align="center">A passionate App developer and machine learning enthusiastic from India</h3>

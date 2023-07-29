@@ -1,10 +1,10 @@
 
 
- <!--<img src="./images/AnimeshBasak.png" align="center">
+ <img src="./images/AnimeshBasak.png" align="center">
 
-<h1 align="center">Hi 👋, I'm Animesh Basak</h1>-->
+<h1 align="center">Hi 👋, I'm Animesh Basak</h1>
 
-<img src="./Animesh.svg"></img>
+<!--<img src="./Animesh.svg"></img>-->
 
 <h3 align="center">A passionate App developer and machine learning enthusiastic from India</h3>
 
@@ -103,7 +103,7 @@
                         </div>
                     </div>    
     </section>
-
+<img align="right" src="https://media.giphy.com/media/LoBSGLlkRVWnd6SdxN/giphy.gif" width="160">
 
 <br> 
 <h2 align="left">Connect with me Over Social Media:</h2>

@@ -4,10 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Animesh Basak</h1>
 
-<!--
 
 <img src="./Animesh.svg"></img>
--->
+
 <h3 align="center">A passionate App developer and machine learning enthusiastic from India</h3>
 
 <img alt="programmingGif" align="right" src="https://media3.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif?cid=ecf05e47b94f05311a244d6f389d1c8bae9b06e8102e0280&rid=giphy.gif&ct=s" width="300px"/>

@@ -3,6 +3,8 @@
  <!--<img src="./images/AnimeshBasak.png" align="center">
 
 <h1 align="center">Hi 👋, I'm Animesh Basak</h1>-->
+
+
 <img src="./Animesh.svg"></img> 
 
 

@@ -32,7 +32,7 @@
 
 - 📫 How to reach me **basakanimesh49@gmail.com**
 
-- 📄 My Resume <p align="left"> <a href="https://drive.google.com/file/d/1EOMCKBvWJvgZF82PEKQtDItmsJZI6hQT/view?usp=sharing" target="blank"><img src="https://img.shields.io/badge/Animesh Basak-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="Animesh Basak" /></a> </p>
+- 📄 My Resume <p align="left"> <a href="https://docs.google.com/document/d/1ZcYErQUZe0sehbwcY6UcGTwzWoz7CmyWT9jH0CT6_t0/edit?usp=sharing" target="blank"><img src="https://img.shields.io/badge/Animesh Basak-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="Animesh Basak" /></a> </p>
 
 - ⚡ Fun fact **I am a boring person**
 

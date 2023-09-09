@@ -32,7 +32,7 @@
 
 - 📫 How to reach me **basakanimesh49@gmail.com**
 
-- 📄 My Resume <p align="left"> <a href="https://docs.google.com/document/d/1ZcYErQUZe0sehbwcY6UcGTwzWoz7CmyWT9jH0CT6_t0/edit?usp=sharing" target="blank"><img src="https://img.shields.io/badge/Animesh Basak-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="Animesh Basak" /></a> </p>
+- 📄 My Resume <p align="left"> <a href="https://auth.geeksforgeeks.org/user/basakanimesh49" target="blank"><img src="https://img.shields.io/badge/Animesh Basak-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="Animesh Basak" /></a> </p>
 
 - ⚡ Fun fact **I am a boring person**
 
@@ -58,7 +58,7 @@
                     <br>
                     <div class="flex-container"  display="flex" align="left">
                         <div class="flex-media-logo">
-                             <a href="https://auth.geeksforgeeks.org/user/basakanimesh49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rahulsah6003" height="40" width="50" /></a>
+                             <a href="https://auth.geeksforgeeks.org/user/basakanimesh49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Animesh Basak" height="40" width="50" /></a>
                         <span class="flex-title">
                             <span>GeeksForGeeks
                                  <a href="https://auth.geeksforgeeks.org/user/basakanimesh49" target="_blank"><img src="./images/link.svg"></a>

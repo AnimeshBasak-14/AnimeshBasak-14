@@ -108,11 +108,10 @@
                    <br>
                     <div class="flex-container"  display="flex">
                         <div class="flex-media-logo">
-          <a href="g.dev/animeshbasak" target="blank">
-           <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Animesh_Basak" height="40" width="50" /></a>
+          <a href="https://g.dev/animeshbasak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Animesh_Basak" height="40" width="50" /></a>
                         <span class="flex-title">
                             <span>Google Developer
-                                <a href="g.dev/animeshbasak" target="_blank"><img src="./images/link.svg"></a>
+                                <a href="https://g.dev/animeshbasak" target="_blank"><img src="./images/link.svg"></a>
                                 <small><strong></strong></small>
                             </span>
                         </span>

@@ -7,7 +7,7 @@
 
 <img src="./Animesh.svg"></img>
 
-<h3 align="center">A passionate App developer and machine learning enthusiastic from India</h3>
+<h3 align="center">A passionate Software developer and machine learning enthusiastic from India</h3>
 
 <img alt="programmingGif" align="right" src="https://media3.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif?cid=ecf05e47b94f05311a244d6f389d1c8bae9b06e8102e0280&rid=giphy.gif&ct=s" width="300px"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnimeshBasak-14&label=Profile%20views&color=0e75b6&style=flat" alt="AnimeshBasak-14" /> </p>
@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on [App Development and ML/DL projects]
+- 👯 I’m looking to collaborate on [App & Web Development and ML/DL projects]
 
 
 
@@ -104,7 +104,20 @@
                             </span>
                         </span>
                         </div>
-                    </div>    
+                    </div>   
+                   <br>
+                    <div class="flex-container"  display="flex">
+                        <div class="flex-media-logo">
+          <a href="g.dev/animeshbasak" target="blank">
+           <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Animesh_Basak" height="40" width="50" /></a>
+                        <span class="flex-title">
+                            <span>Google Developer
+                                <a href="g.dev/animeshbasak" target="_blank"><img src="./images/link.svg"></a>
+                                <small><strong></strong></small>
+                            </span>
+                        </span>
+                        </div>
+                    </div>   
     </section>
 
 

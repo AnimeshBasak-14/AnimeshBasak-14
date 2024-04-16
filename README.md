@@ -17,7 +17,7 @@
 <!--<p align="left"> <a href="https://linktr.ee/Animesh_Basak" target="blank"><img src="https://img.shields.io/badge/ANIMESH BASAK-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Animesh Basak" /></a> </p>-->
 
 <!-- - 🔭 I’m currently working on [WhatApp Chat Analyzer]() -->
-- 👨‍💻 My best project [NITAPSALARYSLIP](https://github.com/AnimeshBasak-14/NITAPSALARYSLIPKOTLIN)
+- 👨‍💻 My best project [salaryfxnitap](https://github.com/AnimeshBasak-14/salaryfxnitap)
 
 
 - 🌱 I’m currently learning **Machine Learning**

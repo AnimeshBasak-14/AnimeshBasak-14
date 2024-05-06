@@ -17,7 +17,7 @@
 <!--<p align="left"> <a href="https://linktr.ee/Animesh_Basak" target="blank"><img src="https://img.shields.io/badge/ANIMESH BASAK-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Animesh Basak" /></a> </p>-->
 
 <!-- - 🔭 I’m currently working on [WhatApp Chat Analyzer]() -->
-- 👨‍💻 My best project [salaryfxnitap](https://github.com/AnimeshBasak-14/salaryfxnitap)
+- 👨‍💻 My best project [Sign Sense](https://github.com/AnimeshBasak-14/SignSense)
 
 
 - 🌱 I’m currently learning **Machine Learning**
@@ -32,7 +32,7 @@
 
 - 📫 How to reach me **basakanimesh49@gmail.com**
 
-- 📄 My Resume [link](https://docs.google.com/document/d/1ZcYErQUZe0sehbwcY6UcGTwzWoz7CmyWT9jH0CT6_t0/edit?usp=sharing)
+- 📄 My Resume [link](https://drive.google.com/file/d/1PrsaK7vOvnRpk2L5NzeyoH62LmDW2wty/view?usp=sharing)
 
 
 

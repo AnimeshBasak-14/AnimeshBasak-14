@@ -32,7 +32,7 @@
 
 - 📫 How to reach me **basakanimesh49@gmail.com**
 
-- 📄 My Resume [link](https://drive.google.com/file/d/1PrsaK7vOvnRpk2L5NzeyoH62LmDW2wty/view?usp=sharing)
+<!--- 📄 My Resume [link](https://drive.google.com/file/d/1PrsaK7vOvnRpk2L5NzeyoH62LmDW2wty/view?usp=sharing) -->
 
 
 
